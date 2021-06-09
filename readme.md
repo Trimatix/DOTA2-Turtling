@@ -31,3 +31,11 @@ The model reads either one or a set of CSV files, where columns are features, an
 This data was extracted from DOTA 2 replay files using [the Clarity parser](https://github.com/skadistats/clarity), my extension of which is provided in this repository. What is not provided here is the labelling process, which is manual. CSVs must end with 10 label columns, `isTurtling0`, `isTurtling`, ... `isTurtling9`.
 
 The pre-parsed dataset used during my dissertation project is available [here](https://drive.google.com/drive/folders/1y8d6Tg5yoOP-5FK4eDECRm4n1Woh_T6X?usp=sharing).
+
+
+# Special Thanks
+Deepest thanks go to my supervisors Prof Anders Drachen and Prof James Walker, for their continuous, invaluable support and enthusiasm throughout.
+
+A huge thank you also to for the continuous help and expert insights offered by Dr Athanasios Kokkinakis, Dr Simon Demediuk, and especially Alan Chitayat, who helped immensely without hesitation.
+
+Lastly, special thanks go to my wonderful parents and girlfriend, for their support during this project and the during difficult times surrounding it.
