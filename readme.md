@@ -3,6 +3,8 @@ This is a copy of a private repository, and so does not contain the project comm
 # Prediction of the Turtle Strategy in DOTA 2
 This repository contains the source code written for completion of my undergraduate dissertation, to recognise occurences of the turtle strategy in DOTA 2. The paper is available to read [on my personal website](https://jasperlaw.dev).
 
+The code provided has been adapted for use with distributed GPU computing. Some minor configuration may be required for use with CPU instead.
+
 ### Inspiration
 
 The model was built after the architecture presented in [Adam Katona's brilliant paper on death prediction](https://arxiv.org/abs/1906.03939), which is well worth a read.
